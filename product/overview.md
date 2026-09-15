@@ -12,9 +12,9 @@ Veta es un soporte a clientes finales 100% agéntico de nivel N1/N2 que resuelve
 
 ## Creencias no verificadas
 
-- Si los códigos de voz del paciente llegaran con métricas (volumen, tendencia, impacto en el journey, casos resueltos vs. escalados), los PO lograrían priorizarlos frente a las solicitudes del negocio. Hoy pierden por falta de evidencia, no por falta de mandato.
-- La consolidación manual y mensual es el cuello de botella: automatizarla y hacerla continua cambiaría decisiones de priorización, no solo ahorraría horas.
-- Un agente puede resolver solo la mayoría de los casos N1/N2 de producto digital (app, portal, agendamiento, resultados), y la regla de escalamiento a humano se puede definir por tipo de caso.
-- Un agente puede clasificar cada caso contra el diccionario común de voz del paciente con calidad suficiente para reemplazar la codificación manual.
-- El comprador es la gerencia de producto/digital, y contact center/SAC aceptarían que un agente atienda casos y alimente el diccionario que hoy construyen ellos.
-- El patrón "desarrollo le gana a experiencia por falta de métricas" no es exclusivo de salud: lo que funcione en Clínica Alemana se generaliza a otras industrias.
+- **[Producto][Valor]** Si los códigos de voz del paciente llegaran con métricas (volumen, tendencia, impacto en el journey, casos resueltos vs. escalados), los PO lograrían priorizarlos frente a las solicitudes del negocio. Hoy pierden por falta de evidencia, no por falta de mandato.
+- **[Producto][Valor]** La consolidación manual y mensual es el cuello de botella: automatizarla y hacerla continua cambiaría decisiones de priorización, no solo ahorraría horas.
+- **[Producto][Factibilidad]** Un agente puede resolver solo la mayoría de los casos N1/N2 de producto digital (app, portal, agendamiento, resultados), y la regla de escalamiento a humano se puede definir por tipo de caso.
+- **[Producto][Factibilidad]** Un agente puede clasificar cada caso contra el diccionario común de voz del paciente con calidad suficiente para reemplazar la codificación manual.
+- **[Negocio][Viabilidad]** El comprador es la gerencia de producto/digital, y contact center/SAC aceptarían que un agente atienda casos y alimente el diccionario que hoy construyen ellos.
+- **[Mercado][Viabilidad]** El patrón "desarrollo le gana a experiencia por falta de métricas" no es exclusivo de salud: lo que funcione en Clínica Alemana se generaliza a otras industrias.
