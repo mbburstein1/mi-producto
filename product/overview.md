@@ -12,9 +12,11 @@ Veta es un soporte a clientes finales 100% agéntico de nivel N1/N2 que resuelve
 
 ## Creencias no verificadas
 
-- **[Producto][Valor]** Si los códigos de voz del paciente llegaran con métricas (volumen, tendencia, impacto en el journey, casos resueltos vs. escalados), los PO lograrían priorizarlos frente a las solicitudes del negocio. Hoy pierden por falta de evidencia, no por falta de mandato.
-- **[Producto][Valor]** La consolidación manual y mensual es el cuello de botella: automatizarla y hacerla continua cambiaría decisiones de priorización, no solo ahorraría horas.
-- **[Producto][Factibilidad]** Un agente puede resolver solo la mayoría de los casos N1/N2 de producto digital (app, portal, agendamiento, resultados), y la regla de escalamiento a humano se puede definir por tipo de caso.
-- **[Producto][Factibilidad]** Un agente puede clasificar cada caso contra el diccionario común de voz del paciente con calidad suficiente para reemplazar la codificación manual.
-- **[Negocio][Viabilidad]** El comprador es la gerencia de producto/digital, y contact center/SAC aceptarían que un agente atienda casos y alimente el diccionario que hoy construyen ellos.
-- **[Mercado][Viabilidad]** El patrón "desarrollo le gana a experiencia por falta de métricas" no es exclusivo de salud: lo que funcione en Clínica Alemana se generaliza a otras industrias.
+- **[product] [value]** Si los códigos de voz del paciente llegaran con métricas (volumen, tendencia, impacto en el journey, casos resueltos vs. escalados), los PO lograrían priorizarlos frente a las solicitudes del negocio. Hoy pierden por falta de evidencia, no por falta de mandato.
+- **[product] [value]** La consolidación manual y mensual es el cuello de botella: automatizarla y hacerla continua cambiaría decisiones de priorización, no solo ahorraría horas.
+- **[product] [feasibility]** Un agente puede resolver solo la mayoría de los casos N1/N2 de producto digital (app, portal, agendamiento, resultados), y la regla de escalamiento a humano se puede definir por tipo de caso.
+- **[product] [feasibility]** Un agente puede clasificar cada caso contra el diccionario común de voz del paciente con calidad suficiente para reemplazar la codificación manual.
+- **[business] [viability]** El comprador es la gerencia de producto/digital, y contact center/SAC aceptarían que un agente atienda casos y alimente el diccionario que hoy construyen ellos.
+- **[market] [viability]** El patrón "desarrollo le gana a experiencia por falta de métricas" no es exclusivo de salud: lo que funcione en Clínica Alemana se generaliza a otras industrias.
+- **[opportunity: voz-paciente-sin-metricas] [value]** Los ítems de voz del paciente pierden en el comité de priorización por falta de cuantificación, no por falta de mandato ni de capacidad: en el último semestre, menos de 1 de cada 5 ítems de experiencia presentados a comité fue aprobado, los PO atribuyen el rechazo a no poder mostrar volumen o impacto, y armar un caso cuantificado les toma más de 3 días hábiles.
+- **[opportunity: voz-paciente-sin-metricas] [viability]** La gerencia de producto/digital tiene la autoridad y el presupuesto para pagar por resolverlo: en al menos 3 de 5 prestadores de salud privados con equipo de producto, el gerente o subgerente pone este problema entre sus 3 prioridades del año y tiene una línea de presupuesto de herramientas donde cabría una solución.
