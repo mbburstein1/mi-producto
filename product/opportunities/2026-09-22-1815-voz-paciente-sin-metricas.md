@@ -65,7 +65,7 @@ Fechas propuestas: ajustarlas al calendario del curso.
 ## Candidate ideas (not evaluated)
 
 - Clasificación automática de cada interacción contra el diccionario común de voz del paciente (el núcleo de Veta).
-- Métricas continuas por código: volumen, tendencia, etapa del journey, casos resueltos vs. escalados.
+- Métricas continuas por código: volumen, tendencia, etapa del journey.
 - Un one-pager por ítem, listo para llevar al comité, con el formato de los casos del negocio.
 - Circuito de vuelta: qué pasó con cada ítem del backlog y si el reclamo bajó después del release.
 - Entregar las señales dentro de lo que ya usan (Jira, Power BI, Salesforce) en vez de una plataforma nueva.

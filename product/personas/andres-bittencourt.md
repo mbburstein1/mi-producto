@@ -40,4 +40,4 @@ Celular Android y laptop; vive en WhatsApp y en el correo. Mira reportes en Exce
 
 ## Por qué no es target
 
-Compraría solo la mitad de Veta —el agente que resuelve casos y desvía llamadas— y descartaría la otra mitad: la conversión de interacciones en señales priorizables. No tiene productos digitales propios, ni product owners, ni un proceso de voz del paciente que automatizar. Si Veta se diseñara para él, se convertiría en un chatbot de agendamiento más y perdería lo que la diferencia. Sirve para detectar cuándo una conversación de venta está derivando hacia ese perfil.
+Busca un bot que atienda pacientes y desvíe llamadas, y Veta no hace eso: convierte la voz del paciente en señales priorizables para equipos de producto. No tiene productos digitales propios, ni product owners, ni un proceso de voz del paciente que automatizar. Si Veta se diseñara para él, se convertiría en un chatbot de agendamiento más y perdería lo que la diferencia. Sirve para detectar cuándo una conversación de venta está derivando hacia ese perfil.

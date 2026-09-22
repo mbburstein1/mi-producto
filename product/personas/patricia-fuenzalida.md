@@ -25,7 +25,7 @@
 - Cuando entrega el informe, ya pasaron 4–6 semanas desde que el paciente reclamó. Y no tiene métricas de volumen ni tendencia que hagan que producto lo tome en serio: son listas de códigos con ejemplos.
 - No hay circuito de vuelta: entrega el backlog y nunca sabe qué pasó. Sus analistas se desmotivan porque sienten que trabajan para un archivo.
 - Le preocupa cualquier automatización que clasifique o responda reclamos: si un caso queda mal codificado o mal respondido, la que responde ante la Superintendencia es ella, no el software.
-- Teme que "un agente que resuelve casos" signifique que su equipo quede reducido a revisar lo que dijo el bot, y perder el contacto directo que hoy es lo que más valora del rol.
+- Teme que la codificación automática deje a su equipo reducido a revisar lo que clasificó una máquina, y que el análisis —lo que más valora del rol— pase a ser de otro.
 
 ## Typical tasks
 

@@ -1,6 +1,6 @@
 # Jorge Mardones
 
-**Tipo:** Terciaria — cliente final (paciente que atiende el agente)
+**Tipo:** Terciaria — cliente final (paciente cuyos reclamos y comentarios son la voz del paciente que Veta codifica)
 
 > "Yo solo quiero ver mi examen y saber si tengo que ir a control. Si el chat no me entiende a la segunda, llamo por teléfono."
 
