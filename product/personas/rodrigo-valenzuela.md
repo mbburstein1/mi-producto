@@ -1,10 +1,9 @@
 # Rodrigo Valenzuela
 
-**Tipo:** Primaria — comprador (gerencia de producto digital)
-
 > "No necesito otro dashboard; necesito poder defender en el comité ejecutivo por qué destinamos un sprint a experiencia y no a la integración con la isapre."
 
 - **Role:** Subgerente de Producto Digital en un prestador de salud privado; le reportan cuatro Product Owners
+- **Type:** primary
 - **Age range:** 45–52
 - **Location:** Santiago, Chile
 - **Industry:** Salud privada — transformación digital

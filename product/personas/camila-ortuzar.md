@@ -1,10 +1,9 @@
 # Camila Ortúzar
 
-**Tipo:** Primaria — usuaria principal (Product Owner)
-
 > "Sé que la experiencia está rota en agendamiento, pero cuando llego al comité con 'los pacientes se quejan' y el negocio llega con 'esto trae $X', pierdo siempre."
 
 - **Role:** Product Owner de app y portal paciente en un prestador de salud privado
+- **Type:** primary
 - **Age range:** 32–38
 - **Location:** Santiago, Chile
 - **Industry:** Salud privada — canales digitales

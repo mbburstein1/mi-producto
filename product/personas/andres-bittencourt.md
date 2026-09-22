@@ -1,10 +1,9 @@
 # Andrés Bittencourt
 
-**Tipo:** Negativa — parece target pero no lo es
-
 > "Quiero un bot de WhatsApp que me baje el costo del call center un 30%. ¿Métricas para product owners? No tengo product owners."
 
 - **Role:** Gerente de Operaciones de un centro médico mediano (3 sedes, sin app propia)
+- **Type:** negative
 - **Age range:** 42–47
 - **Location:** Región Metropolitana, Chile
 - **Industry:** Salud privada — centros médicos ambulatorios

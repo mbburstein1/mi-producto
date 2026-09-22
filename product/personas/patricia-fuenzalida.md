@@ -1,10 +1,9 @@
 # Patricia Fuenzalida
 
-**Tipo:** Secundaria — usuaria operativa (dueña del proceso de voz del paciente)
-
 > "Cada mes junto cinco fuentes en un Excel para decirle a producto lo que los pacientes ya nos dijeron hace seis semanas. Y después no sé qué pasó con eso."
 
 - **Role:** Jefa de Experiencia del Paciente en un prestador de salud privado; le reportan el equipo de SAC y la analista de NPS/CSAT
+- **Type:** secondary
 - **Age range:** 50–55
 - **Location:** Santiago, Chile
 - **Industry:** Salud privada — experiencia y atención al cliente
