@@ -16,11 +16,11 @@ Veta convierte la voz del cliente que la empresa ya recoge —contact center, NP
 
 ## Creencias no verificadas
 
-- **[product] [value]** Si los códigos de voz del paciente llegaran con métricas (volumen, tendencia, impacto en el journey), los PO lograrían priorizarlos frente a las solicitudes del negocio. Hoy pierden por falta de evidencia, no por falta de mandato.
+- **[opportunity: voz-paciente-sin-metricas] [value]** En el último semestre, la tasa de aprobación en el comité de priorización de los ítems originados en voz del paciente es menos de la mitad que la de las solicitudes del negocio, y en las actas o en las entrevistas el rechazo se atribuye a falta de cuantificación (volumen, tendencia, impacto), no a falta de mandato ni de capacidad.
+- **[product] [value]** Si los códigos de voz del paciente llegaran con métricas (volumen, tendencia, impacto en el journey), los PO lograrían priorizarlos frente a las solicitudes del negocio.
 - **[product] [value]** La consolidación manual y mensual es el cuello de botella: automatizarla y hacerla continua cambiaría decisiones de priorización, no solo ahorraría horas.
 - **[product] [feasibility]** Un modelo puede clasificar las interacciones de las fuentes existentes contra el diccionario común de voz del paciente con calidad suficiente para reemplazar la codificación manual.
 - **[product] [feasibility]** Veta puede acceder de forma continua a las fuentes (Salesforce, contact center, NPS/CSAT, Usabilla) aunque pertenezcan a gerencias distintas de la de producto.
 - **[business] [viability]** El comprador es la gerencia de producto/digital, y experiencia del paciente, contact center y SAC aceptarían que la codificación automática reemplace la que hoy hacen ellos.
 - **[market] [viability]** El patrón "desarrollo le gana a experiencia por falta de métricas" no es exclusivo de salud: lo que funcione en Clínica Alemana se generaliza a otras industrias.
-- **[opportunity: voz-paciente-sin-metricas] [value]** Los ítems de voz del paciente pierden en el comité de priorización por falta de cuantificación, no por falta de mandato ni de capacidad: en el último semestre, menos de 1 de cada 5 ítems de experiencia presentados a comité fue aprobado, los PO atribuyen el rechazo a no poder mostrar volumen o impacto, y armar un caso cuantificado les toma más de 3 días hábiles.
 - **[opportunity: voz-paciente-sin-metricas] [viability]** La gerencia de producto/digital tiene la autoridad y el presupuesto para pagar por resolverlo: en al menos 3 de 5 prestadores de salud privados con equipo de producto, el gerente o subgerente pone este problema entre sus 3 prioridades del año y tiene una línea de presupuesto de herramientas donde cabría una solución.
