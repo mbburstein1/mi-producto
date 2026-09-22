@@ -16,6 +16,7 @@ Veta convierte la voz del cliente que una empresa ya recoge —contact center, e
 
 - **2026-09-22 — Veta es el valor que agrega a producto.** El producto se define por convertir la voz del cliente en oportunidades de mejora priorizables. El soporte agéntico N1/N2 que resolvía casos y escalaba a personas sale del producto, junto con sus creencias.
 - **2026-09-22 — Producto agnóstico, entrada por salud.** El producto se describe sin industria; salud es el primer segmento porque ahí hay acceso a datos reales (Clínica Alemana). La primera oportunidad es [voz-paciente-sin-metricas](opportunities/2026-09-22-1815-voz-paciente-sin-metricas.md).
+- **2026-09-22 — La investigación de otras industrias se posterga.** La investigación secundaria de la creencia [market] [viability] (qué industrias en Chile tienen equipos de producto y volumen de atención, quién les vende voz del cliente, si ya compran herramientas como Enterpret) se hace después del 2026-10-30, y solo si la oportunidad de salud se sostiene. Motivo: no tiene sentido dimensionar la expansión antes de validar el primer segmento, aunque el universo de salud en Chile (~8–10 redes) es chico para sostener el negocio solo ([research](research/2026-09-22-voz-paciente-sin-metricas-mercado.md)).
 
 ## Creencias no verificadas
 
