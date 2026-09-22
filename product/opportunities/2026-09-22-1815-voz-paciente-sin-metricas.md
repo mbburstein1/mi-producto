@@ -1,7 +1,7 @@
 ---
 status: framed
 segment: Product Owners y gerencias de producto digital de prestadores de salud privados en Chile con productos digitales propios (app, portal, agendamiento, resultados), junto con los equipos de experiencia del paciente que les entregan la voz del paciente
-personas: camila-ortuzar, patricia-fuenzalida, rodrigo-valenzuela, jorge-mardones, andres-bittencourt
+personas: camila-ortuzar, patricia-fuenzalida, rodrigo-valenzuela, jorge-mardones, veronica-sepulveda, andres-bittencourt
 ---
 
 # Opportunity: La voz del paciente pierde la priorización por falta de métricas
@@ -14,6 +14,7 @@ Los PO de prestadores de salud reciben las señales de pacientes una vez al mes,
 - Patricia Fuenzalida (secondary) — la sufre: produce a mano el informe mensual que llega tarde, sin métricas y sin respuesta de vuelta.
 - Rodrigo Valenzuela (primary) — la sufre en parte: elige entre defender a sus PO sin datos o dejar ganar al negocio. Es quien responde la creencia de viabilidad (compra y presupuesto).
 - Jorge Mardones (tertiary) — no la sufre: es el origen de las señales. Sus frustraciones son las que se pierden en el camino.
+- Verónica Sepúlveda (tertiary) — no la sufre directamente: sufre sus consecuencias, las llamadas evitables que producto no prioriza. Responde la viabilidad por el lado de los datos: habilita o bloquea el acceso a la fuente más grande y decide si acepta la codificación automática.
 - Andrés Bittencourt (negative) — no la sufre: no tiene PO, roadmap ni proceso de voz del paciente. Delimita el segmento: sin equipo de producto no hay oportunidad.
 - Missing: none. Falta, eso sí, la contraparte que gana hoy en el comité (gerencia comercial/negocio): no sufre el problema, pero condiciona qué evidencia basta para ganarle.
 
@@ -28,6 +29,7 @@ Los PO de prestadores de salud reciben las señales de pacientes una vez al mes,
 | La consolidación mensual toma 6–8 días-persona y el informe llega 4–6 semanas después del reclamo, sin circuito de vuelta | synthetic | `product/personas/patricia-fuenzalida.md` |
 | El comprador ya compró herramientas de "insights" que terminaron como dashboards que nadie abre | synthetic | `product/personas/rodrigo-valenzuela.md` |
 | No se sabe qué porcentaje de los contactos al contact center son problemas de productos digitales | synthetic | `product/personas/rodrigo-valenzuela.md` |
+| Casi un tercio de las llamadas se tipifica como "consulta general"; los releases sin aviso generan peaks de llamadas que producto no ve | synthetic | `product/personas/veronica-sepulveda.md` |
 
 Todas las señales son `unverified` o `synthetic`: hay razones para creer que el problema existe, pero ninguna prueba todavía.
 
@@ -43,6 +45,7 @@ Para el comprador: que ítems de experiencia entren al roadmap con evidencia com
 - Los reclamos ante la Superintendencia de Salud tienen plazos legales de respuesta; la responsabilidad es de la jefatura de experiencia, no del proveedor. (synthetic, `patricia-fuenzalida.md`)
 - Las fuentes (contact center, SAC, experiencia del paciente) reportan a gerencias distintas de la de producto. (synthetic, `rodrigo-valenzuela.md`)
 - Toda iniciativa con IA pasa por revisión de legal y seguridad de la información, que puede tomar meses. (synthetic, `rodrigo-valenzuela.md`)
+- Parte de la operación de contact center puede estar externalizada: grabaciones y registros quedan en la plataforma del proveedor y su acceso depende del contrato. (synthetic, `veronica-sepulveda.md`)
 
 ## Beliefs
 
