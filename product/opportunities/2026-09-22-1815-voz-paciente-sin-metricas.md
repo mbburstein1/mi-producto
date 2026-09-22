@@ -1,7 +1,7 @@
 ---
 status: framed
 segment: Product Owners y gerencias de producto digital de prestadores de salud privados en Chile con productos digitales propios (app, portal, agendamiento, resultados), junto con los equipos de experiencia del paciente que les entregan la voz del paciente
-personas: camila-ortuzar, patricia-fuenzalida, rodrigo-valenzuela, jorge-mardones, veronica-sepulveda, andres-bittencourt
+personas: camila-ortuzar, patricia-fuenzalida, rodrigo-valenzuela, veronica-sepulveda, andres-bittencourt
 ---
 
 # Opportunity: La voz del paciente pierde la priorización por falta de métricas
@@ -13,7 +13,6 @@ Los PO de prestadores de salud reciben las señales de pacientes una vez al mes,
 - Camila Ortúzar (primary) — la sufre: lleva anécdotas al comité, pierde contra proyecciones de ingreso y no puede cerrar el ciclo de lo que sí salió.
 - Patricia Fuenzalida (secondary) — la sufre: produce a mano el informe mensual que llega tarde, sin métricas y sin respuesta de vuelta.
 - Rodrigo Valenzuela (primary) — la sufre en parte: elige entre defender a sus PO sin datos o dejar ganar al negocio. Es quien responde la creencia de viabilidad (compra y presupuesto).
-- Jorge Mardones (tertiary) — no la sufre: es el origen de las señales. Sus frustraciones son las que se pierden en el camino.
 - Verónica Sepúlveda (tertiary) — no la sufre directamente: sufre sus consecuencias, las llamadas evitables que producto no prioriza. Responde la viabilidad por el lado de los datos: habilita o bloquea el acceso a la fuente más grande y decide si acepta la codificación automática.
 - Andrés Bittencourt (negative) — no la sufre: no tiene PO, roadmap ni proceso de voz del paciente. Delimita el segmento: sin equipo de producto no hay oportunidad.
 - Missing: none. Falta, eso sí, la contraparte que gana hoy en el comité (gerencia comercial/negocio): no sufre el problema, pero condiciona qué evidencia basta para ganarle.
