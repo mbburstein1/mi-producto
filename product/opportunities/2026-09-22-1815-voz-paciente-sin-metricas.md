@@ -36,7 +36,7 @@ Comercial: que gerencias de producto/digital de prestadores de salud paguen por 
 
 ## Constraints
 
-- Datos de salud sensibles: Ley 20.584 (derechos y deberes del paciente) y Ley 19.628 de protección de datos, reemplazada por la Ley 21.719 (verificar fecha de vigencia).
+- Datos de salud sensibles: Ley 20.584 (derechos y deberes del paciente) y Ley 19.628 de protección de datos, reemplazada por la Ley 21.719, que entra en vigencia el 2026-12-01 y crea la Agencia de Protección de Datos Personales (`product/research/2026-09-22-voz-paciente-sin-metricas-mercado.md`).
 - Plazos legales de respuesta a reclamos ante la Superintendencia de Salud. (synthetic, `patricia-fuenzalida.md`)
 - Las fuentes reportan a gerencias distintas de producto; parte del contact center puede estar externalizado, con los datos en la plataforma del proveedor. (synthetic, `rodrigo-valenzuela.md`, `veronica-sepulveda.md`)
 - Toda iniciativa con IA pasa por revisión de legal y seguridad de la información. (synthetic, `rodrigo-valenzuela.md`)
