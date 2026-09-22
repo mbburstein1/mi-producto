@@ -10,6 +10,12 @@ Veta es un soporte a clientes finales 100% agéntico de nivel N1/N2 que resuelve
 
 **Contexto del problema:** el roadmap de producto se define por solicitudes del negocio. Las señales de pacientes sí llegan a los PO vía un proceso manual y mensual, pero sin métricas de volumen, tendencia ni impacto, por lo que la mejora de experiencia siempre pierde contra el desarrollo.
 
+## Foco
+
+**Decisión (2026-09-22):** el valor central de Veta es retroalimentar las oportunidades de mejora de cara al paciente. El foco es la oportunidad [voz-paciente-sin-metricas](opportunities/2026-09-22-1815-voz-paciente-sin-metricas.md).
+
+El soporte agéntico N1/N2 (el paciente que no logra resolver solo y termina llamando) queda fuera del foco y no se enmarca como oportunidad por ahora. Es una decisión, no una omisión. Las creencias sobre el agente que resuelve casos quedan en espera, y su rol dentro de Veta queda abierto.
+
 ## Creencias no verificadas
 
 - **[product] [value]** Si los códigos de voz del paciente llegaran con métricas (volumen, tendencia, impacto en el journey, casos resueltos vs. escalados), los PO lograrían priorizarlos frente a las solicitudes del negocio. Hoy pierden por falta de evidencia, no por falta de mandato.
