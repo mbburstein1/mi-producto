@@ -1,9 +1,9 @@
 # Patricia Fuenzalida
 
-> "Cada mes junto cinco fuentes en un Excel para decirle a producto lo que los pacientes ya nos dijeron hace seis semanas. Y después no sé qué pasó con eso."
+> "Mi equipo responde cada reclamo dentro del plazo. Lo que no sé es si alguien arregló la causa, porque el mismo reclamo vuelve el mes siguiente."
 
-- **Role:** Jefa de Experiencia del Paciente en un prestador de salud privado; le reportan el equipo de SAC y la analista de NPS/CSAT
-- **Type:** secondary
+- **Role:** Jefa de Experiencia del Paciente en un prestador de salud privado; le reportan el equipo de SAC y la analista de NPS/CSAT. Reporta a una gerencia distinta de producto digital.
+- **Type:** tertiary
 - **Age range:** 50–55
 - **Location:** Santiago, Chile
 - **Industry:** Salud privada — experiencia y atención al cliente
@@ -12,28 +12,27 @@
 
 ## Goals
 
-- Que la voz del paciente pese en las decisiones de la clínica, no solo que se escuche.
-- Entregar a producto y operaciones un backlog de mejora que se use y que vuelva con respuesta: qué se hizo, qué no y por qué.
+- Que bajen los reclamos que se repiten por la misma causa, no solo que se respondan a tiempo.
 - Cumplir sin sobresaltos con los plazos legales de respuesta a reclamos ante la Superintendencia de Salud.
-- Que su equipo sea reconocido por el análisis y la relación con el paciente, no por tipear reclamos.
+- Saber qué se hizo con lo que reclamaron los pacientes —qué se corrigió, qué no y por qué— para poder responderlo a los pacientes y a su gerencia.
+- Que la voz del paciente pese en las decisiones de la clínica, no solo que se escuche.
 
 ## Frustrations
 
-- El proceso mensual de "voz del paciente" es artesanal: exporta reclamos de Salesforce, pide el informe de NPS, baja los comentarios de Usabilla, le piden a contact center una planilla de tipificaciones, y todo eso lo codifica su equipo a mano contra un diccionario que armaron ellos mismos. Le lleva entre 6 y 8 días-persona al mes.
-- Cada fuente habla en su propio idioma: contact center tipifica de una manera, SAC de otra, NPS trae texto libre. El diccionario común existe porque ella lo forzó, y aun así hay códigos que cada analista interpreta distinto.
-- Cuando entrega el informe, ya pasaron 4–6 semanas desde que el paciente reclamó. Y no tiene métricas de volumen ni tendencia que hagan que producto lo tome en serio: son listas de códigos con ejemplos.
-- No hay circuito de vuelta: entrega el backlog y nunca sabe qué pasó. Sus analistas se desmotivan porque sienten que trabajan para un archivo.
-- Le preocupa cualquier automatización que clasifique o responda reclamos: si un caso queda mal codificado o mal respondido, la que responde ante la Superintendencia es ella, no el software.
-- Teme que la codificación automática deje a su equipo reducido a revisar lo que clasificó una máquina, y que el análisis —lo que más valora del rol— pase a ser de otro.
+- Los mismos motivos se repiten mes a mes (agendamiento web, resultados que no aparecen en la app, cobros duplicados). Su equipo los responde uno por uno y no ve que la causa cambie; cada reclamo repetido es tiempo de su equipo y un plazo legal más que vigilar.
+- Entrega exportaciones de Salesforce e informes de NPS cuando producto se los pide, y nunca vuelve una respuesta. No sabe si sirvieron para algo.
+- Cuando un reclamo por un problema de la app escala a la Superintendencia, la que responde es ella, aunque la causa esté en un producto que no controla.
+- Su gerencia le mide plazos de respuesta y producto mide adopción; nadie mide si los reclamos bajaron gracias a una mejora, así que el logro no es de nadie.
+- Varias áreas le piden datos en formatos distintos y su analista pierde días armando extracciones. Daría acceso continuo si no le agrega trabajo, pero no va a priorizar un proyecto de integración que empuja otra gerencia.
 
 ## Typical tasks
 
-- Consolidación mensual de fuentes de voz del paciente y codificación contra el diccionario común.
 - Supervisión de la gestión de reclamos SAC en Salesforce: plazos, calidad de respuesta, casos sensibles.
-- Reuniones de entrega del backlog de mejora a producto digital y a operaciones clínicas.
+- Reporte mensual a su gerencia de volumen de reclamos y cumplimiento de plazos.
 - Lectura de comentarios de NPS/CSAT y detección de casos críticos para escalar.
-- Capacitación de su equipo en el uso del diccionario y en tono de respuesta al paciente.
+- Atención de pedidos de datos de producto, operaciones clínicas y calidad.
+- Capacitación de su equipo en tono de respuesta al paciente.
 
 ## Device preferences
 
-Laptop corporativo como herramienta principal; Excel y Salesforce son su día a día, Power BI lo mira cuando se lo mandan. Usa el celular para WhatsApp con su equipo y para alertas de casos urgentes. Prefiere que la información nueva llegue dentro de lo que ya usa antes que aprender otra herramienta.
+Laptop corporativo como herramienta principal; Excel y Salesforce son su día a día, Power BI lo mira cuando se lo mandan. Usa el celular para WhatsApp con su equipo y para alertas de casos urgentes. Si le mostraran qué mejoras bajaron los reclamos, lo querría en su reporte mensual o en Power BI, no en otra herramienta.

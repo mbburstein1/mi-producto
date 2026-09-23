@@ -23,7 +23,7 @@
 - El árbol de tipificación tiene 120 códigos y sus ejecutivos tienen segundos para elegir uno al cerrar la llamada, con el tiempo medio de atención encima. Casi un tercio termina en "consulta general". Sabe que el dato es malo, pero corregirlo cuesta minutos por llamada que no tiene.
 - Producto, experiencia del paciente y comercial le piden datos por separado, cada uno en su formato. Su analista de reportes pierde dos días al mes armando planillas para otros y nunca sabe qué se hizo con ellas.
 - La mitad de la operación la hace el proveedor externo: las grabaciones y los registros viven en su plataforma, y sacar cualquier cosa fuera de lo pactado exige pedirlo por contrato y esperar semanas.
-- Desconfía de que "clasificar automáticamente las llamadas" termine en un ranking de sus ejecutivos, en un argumento para recortar dotación o en un informe que muestre frente a su gerente que la tipificación de su equipo estaba mal.
+- No tiene tiempo para proyectos de otras áreas. Si alguien quiere sus datos de forma continua, que lo gestione con el proveedor; ella firma si no le cuesta dotación ni agrega pasos a sus ejecutivos.
 - Pagó licencias de speech analytics que casi no usa, porque nadie tuvo tiempo de configurarlas. No quiere otra herramienta que prometa lo mismo.
 
 ## Typical tasks

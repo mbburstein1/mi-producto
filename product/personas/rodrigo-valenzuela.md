@@ -21,13 +21,14 @@
 
 - Ya compró dos herramientas de "insights" que prometían señales accionables y terminaron siendo dashboards que nadie abre. Cada una le costó credibilidad frente a finanzas.
 - Sus PO llegan al comité con argumentos cualitativos y él tiene que elegir entre defenderlos sin datos o dejar que el negocio gane. Elige lo segundo más de lo que le gusta.
+- Él mismo es parte del negocio: los features nuevos que su gerente y TI le piden los comprometió él en el roadmap. Cuando un PO trae un ítem de experiencia, tiene que elegir contra compromisos que firmó él, y sin un número de impacto no tiene cómo justificar el cambio hacia arriba.
 - Contact center, SAC y experiencia de paciente reportan a otras gerencias. Pedirles datos es una negociación política, no una consulta.
 - No sabe qué porcentaje de los casos que llegan al contact center son problemas de sus productos digitales vs. problemas médicos o administrativos. Sospecha que es alto; no puede probarlo.
 - Cualquier iniciativa con "IA" en el nombre pasa por legal y seguridad de la información durante meses.
 
 ## Typical tasks
 
-- Comité ejecutivo mensual: presentar roadmap, defender presupuesto, negociar con comercial y operaciones.
+- Comité ejecutivo mensual: presentar roadmap, defender presupuesto, negociar prioridades con su gerente y con la gerencia de TI.
 - Revisión de OKR trimestrales del área y de los indicadores de adopción de canales digitales.
 - Evaluación y contratación de proveedores y plataformas.
 - Uno a uno con sus PO; desbloqueo de dependencias con TI y seguridad.
