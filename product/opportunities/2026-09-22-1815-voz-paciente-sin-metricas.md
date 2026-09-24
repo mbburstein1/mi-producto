@@ -1,7 +1,7 @@
 ---
 status: framed
 segment: Product Owners y gerencias de producto digital de prestadores de salud privados en Chile con productos digitales propios (app, portal, agendamiento, resultados), junto con los equipos de UX y soporte de producto que hoy codifican a mano la voz del paciente
-personas: camila-ortuzar, rodrigo-valenzuela, francisca-lagos, diego-riquelme, patricia-fuenzalida, veronica-sepulveda, andres-bittencourt
+personas: camila-ortuzar, rodrigo-valenzuela, francisca-lagos, veronica-sepulveda, andres-bittencourt
 ---
 
 # Opportunity: La voz del paciente entra al backlog sin prioridad ni forma de competir
@@ -12,11 +12,10 @@ Los ítems de mejora que nacen de la voz del paciente entran al backlog de produ
 
 - Camila Ortúzar (primary) — la sufre: sus ítems de experiencia quedan en el backlog sin prioridad mientras las iniciativas nuevas llegan con proyección de ingreso.
 - Rodrigo Valenzuela (primary) — la sufre: no tiene una regla ni datos para justificar un sprint de experiencia frente a una iniciativa nueva que él comprometió. Responde la creencia de viabilidad.
-- Francisca Lagos y Diego Riquelme (secondary) — sufren su consecuencia: codifican a mano la voz del paciente (mensual en Usabilla/CSAT, bisemanal en NPS y reclamos) y los ítems que producen quedan sin prioridad.
-- Patricia Fuenzalida (tertiary) — no usa el producto: sufre el resultado, porque los reclamos repetidos siguen llegando mientras las causas no se corrigen.
+- Francisca Lagos (secondary) — sufre su consecuencia: codifica a mano, junto con soporte de producto, la voz del paciente (mensual en Usabilla/CSAT, bisemanal en NPS y reclamos) y los ítems que produce quedan sin prioridad.
 - Verónica Sepúlveda (tertiary) — no usa el producto: sufre las llamadas evitables y habilita o bloquea el acceso a la fuente más grande.
 - Andrés Bittencourt (negative) — no la sufre: sin equipo de producto no hay backlog donde competir.
-- Missing: none. La contraparte en la priorización son las gerencias digital y de TI, que priorizan features nuevos; no tienen persona propia y su postura la representa en parte Rodrigo, que es parte de la gerencia digital.
+- Missing: soporte de producto (co-codifica con UX) y experiencia del paciente/SAC (dueña de NPS y reclamos) no tienen persona propia, para mantener el set en 2-1-1-1; Francisca y Verónica las representan en parte. La contraparte en la priorización son las gerencias digital y de TI, que priorizan features nuevos; no tienen persona propia y su postura la representa en parte Rodrigo, que es parte de la gerencia digital.
 
 ## Signals
 
@@ -40,7 +39,6 @@ Comercial: que gerencias de producto/digital de prestadores de salud paguen por 
 ## Constraints
 
 - Datos de salud sensibles: Ley 20.584 (derechos y deberes del paciente) y Ley 19.628 de protección de datos, reemplazada por la Ley 21.719, que entra en vigencia el 2026-12-01 y crea la Agencia de Protección de Datos Personales (`product/research/2026-09-22-voz-paciente-sin-metricas-mercado.md`).
-- Plazos legales de respuesta a reclamos ante la Superintendencia de Salud. (synthetic, `patricia-fuenzalida.md`)
 - Las fuentes reportan a gerencias distintas de producto; parte del contact center puede estar externalizado, con los datos en la plataforma del proveedor. (synthetic, `rodrigo-valenzuela.md`, `veronica-sepulveda.md`)
 - Toda iniciativa con IA pasa por revisión de legal y seguridad de la información. (synthetic, `rodrigo-valenzuela.md`)
 - La decisión sobre esta oportunidad se toma el 2026-10-30 (hito del curso).

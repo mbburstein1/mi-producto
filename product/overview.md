@@ -1,6 +1,6 @@
 # Veta
 
-Veta convierte la voz del cliente que una empresa ya recoge —contact center, encuestas NPS/CSAT, feedback en la app o la web, reclamos en el CRM— en señales codificadas y con métricas (volumen, tendencia, impacto en el journey) expresadas en impacto de negocio —agendamientos abandonados, costo de contactos evitables, pacientes que se van, riesgo regulatorio—, para que los product owners puedan priorizarlas frente a los features nuevos y los pedidos de stakeholders. Reemplaza el proceso manual y periódico con que hoy se arma la "voz del cliente" por uno continuo. Aprende solo de la información interna de la empresa sobre sus productos digitales. Es agnóstico a industria; el primer segmento es salud.
+Veta convierte la voz del cliente que una empresa ya recoge —contact center, encuestas NPS/CSAT, feedback en la app o la web, reclamos en el CRM— en señales codificadas y con métricas (volumen, tendencia, impacto en el journey) expresadas en impacto de negocio —agendamientos abandonados, costo de contactos evitables, pacientes que se van—, para que los product owners puedan priorizarlas frente a los features nuevos y los pedidos de stakeholders. Reemplaza el proceso manual y periódico con que hoy se arma la "voz del cliente" por uno continuo. Aprende solo de la información interna de la empresa sobre sus productos digitales. Es agnóstico a industria; el primer segmento es salud.
 
 ## Para quién
 
@@ -8,7 +8,7 @@ Veta convierte la voz del cliente que una empresa ya recoge —contact center, e
 
 **Usuarios operativos:** los equipos de UX y de soporte de producto, que hoy codifican a mano la voz del cliente contra el diccionario común y arman el backlog de mejora.
 
-**Fuentes y beneficiarios:** experiencia del cliente, contact center y atención de reclamos. No usan Veta: son dueños de las fuentes y les interesa el resultado, que la experiencia mejore y los contactos bajen por las mejoras que se implementan.
+**Fuentes y beneficiarios:** experiencia del cliente, contact center y atención de reclamos. No usan Veta: son dueños de las fuentes y les interesa el resultado, que la experiencia mejore y los contactos bajen por las mejoras que se implementan. Veta no gestiona reclamos ni contactos: solo lee su detalle para convertirlo en señales.
 
 **Primer segmento:** prestadores de salud privados en Chile, con Clínica Alemana Santiago como caso de referencia (app, portal, agendamiento, resultados). Ahí la voz del cliente es la "voz del paciente" y sus fuentes son contact center, NPS, CSAT, Usabilla y reclamos SAC en Salesforce.
 
@@ -23,6 +23,7 @@ Veta convierte la voz del cliente que una empresa ya recoge —contact center, e
 - **2026-09-22 — El problema es la falta de argumento de negocio.** Las señales no pierden solo por falta de volumen o tendencia, sino porque no muestran qué le cuesta al negocio el problema. "El negocio" son la gerencia digital y la gerencia de TI, dueñas del desarrollo de producto, que priorizan features nuevos y pedidos de stakeholders. Las señales de Veta tienen que hablar en ese idioma.
 
 - **2026-09-23 — No hay comité: el problema es que la voz del paciente no tiene cómo competir.** En Clínica Alemana no existe comité de priorización ni informe mensual. Hay una reunión bisemanal que sigue los datos y una revisión a fin de mes, en Excel, de si cambia la priorización del mes anterior; los ítems entran al backlog sin prioridad ni criterio frente a las iniciativas nuevas. La codificación es mensual en Usabilla/CSAT y bisemanal en NPS y reclamos. La oportunidad se reformula, la creencia de valor se mide con el backlog de Jira en vez de actas, y las personas se corrigen puntualmente, sin rehacerlas.
+- **2026-09-23 — Veta usa los reclamos como insumo, no los gestiona, y el set de personas queda en 2-1-1-1.** Los reclamos SAC entran solo como fuente de señales; su gestión y los plazos de respuesta ante la Superintendencia van por otra vía y quedan fuera del producto. Para mantener el set en 2 primarias, 1 secundaria, 1 terciaria y 1 negativa, salen Diego Riquelme (soporte de producto) y Patricia Fuenzalida (experiencia del paciente). Francisca Lagos (UX) representa a los usuarios operativos y Verónica Sepúlveda (contact center) a las fuentes y beneficiarios.
 
 ## Creencias no verificadas
 
