@@ -62,6 +62,11 @@ Registradas en `product/overview.md`:
 
 Sin encuesta: el universo de prestadores con equipo de producto en Chile es chico, así que las entrevistas rinden más.
 
+Research secundario hecho:
+
+- [Mercado de voz del cliente en salud](../research/2026-09-22-voz-paciente-sin-metricas-mercado.md) (2026-09-22): quién compra, a qué precio y contra quién se compite.
+- [Impacto de negocio de las señales](../research/2026-09-23-impacto-negocio-senales.md) (2026-09-23): cómo se estima el impacto de negocio y con qué datos externos.
+
 ## Candidate ideas (not evaluated)
 
 - Clasificación automática contra el diccionario común.

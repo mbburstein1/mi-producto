@@ -8,6 +8,8 @@ opportunity: voz-paciente-sin-metricas
 
 # Research: mercado de voz del cliente para priorizar producto en salud (Chile)
 
+> **Nota 2026-09-23:** este research es un registro al 2026-09-22 y no se reescribe. Desde entonces: no existe un comité de priorización (la voz del paciente entra al backlog sin prioridad ni criterio frente a las iniciativas nuevas), y varias creencias de la tabla *Impacto en creencias* cambiaron de redacción; la versión vigente está en `product/overview.md`. El cálculo del impacto de negocio de una señal se investigó aparte en [impacto de negocio de las señales](2026-09-23-impacto-negocio-senales.md).
+
 La promesa de Veta ("feedback cuantificado para priorizar el roadmap") **ya existe y se vende**, pero afuera y a equipos de producto SaaS: Enterpret y Unwrap prometen justamente conectar el feedback con impacto para decidir qué construir, a US$24k–64k al año. En Chile, los actores visibles de voz del cliente en salud **le venden a CX y operaciones, no a producto**, lo que tensiona la creencia de que paga la gerencia de producto. Y la clasificación con IA se está volviendo commodity: el mercado se está repreciando hacia quien integra el insight en el flujo de decisión, así que el valor defendible de Veta estaría en el punto de decisión de la priorización, no en codificar.
 
 > **Corrección 2026-09-23:** en Clínica Alemana no hay comité de priorización. Los ítems de voz del paciente entran al backlog sin prioridad ni criterio frente a las iniciativas nuevas. Donde este documento dice "comité", léase "el punto de decisión de la priorización", que hoy no existe formalmente. Los hallazgos de mercado no cambian.
