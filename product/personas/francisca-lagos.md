@@ -2,7 +2,7 @@
 
 > "Paso días cada mes etiquetando comentarios para confirmar lo que ya intuía. No me queda tiempo para investigar lo que todavía no sé."
 
-- **Role:** UX Researcher en la gerencia de producto digital de un prestador de salud privado; codifica cada mes la voz del paciente junto con soporte de producto
+- **Role:** UX Researcher en la gerencia de producto digital de un prestador de salud privado; codifica la voz del paciente junto con soporte de producto (mensual en Usabilla/CSAT, bisemanal en NPS y reclamos)
 - **Type:** secondary
 - **Age range:** 29–34
 - **Location:** Santiago, Chile
@@ -19,15 +19,15 @@
 
 ## Frustrations
 
-- La codificación mensual con soporte le toma entre 6 y 8 días-persona entre ambos equipos, y el informe sale 4–6 semanas después de que el paciente reclamó. Ese mes no hace research.
+- La codificación con soporte le toma entre 6 y 8 días-persona al mes entre ambos equipos, y lo de Usabilla/CSAT llega 4–6 semanas después de que el paciente reclamó. Esas semanas no hace research.
 - El diccionario común está organizado por motivo de contacto, no por paso del journey. Cada mes re-mapea a mano los códigos a las pantallas del producto para que le sirvan a diseño.
 - Los comentarios de Usabilla y NPS son texto libre ambiguo: "no funciona" puede ser cinco problemas distintos. Ella y el analista de soporte codifican el mismo comentario distinto y pierden tiempo conciliando.
-- Desconfía de la clasificación automática: si pierde esos matices, el informe se ve más ordenado pero dice menos. Aceptaría que una máquina codifique si ella puede revisar y corregir, y el sistema aprende de eso.
-- En el comité su trabajo cualitativo se lee como "opinión". Sin volumen ni tendencia, sus hallazgos quedan como anexo.
+- Desconfía de la clasificación automática: si pierde esos matices, el Excel se ve más ordenado pero dice menos. Aceptaría que una máquina codifique si ella puede revisar y corregir, y el sistema aprende de eso.
+- En la revisión de fin de mes su trabajo cualitativo se lee como "opinión". Sin volumen ni tendencia, sus hallazgos entran al backlog sin prioridad.
 
 ## Typical tasks
 
-- Codificación mensual de comentarios y reclamos contra el diccionario común, junto con soporte de producto.
+- Codificación de comentarios y reclamos contra el diccionario común, junto con soporte de producto: mensual en Usabilla/CSAT, bisemanal en NPS y reclamos.
 - Entrevistas y pruebas de usabilidad para los squads de app y portal.
 - Mantención del journey map del paciente y del repositorio de hallazgos.
 - Presentación de hallazgos a los PO y apoyo en la definición de problemas antes del diseño.

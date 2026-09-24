@@ -8,7 +8,9 @@ opportunity: voz-paciente-sin-metricas
 
 # Research: mercado de voz del cliente para priorizar producto en salud (Chile)
 
-La promesa de Veta ("feedback cuantificado para priorizar el roadmap") **ya existe y se vende**, pero afuera y a equipos de producto SaaS: Enterpret y Unwrap prometen justamente conectar el feedback con impacto para decidir qué construir, a US$24k–64k al año. En Chile, los actores visibles de voz del cliente en salud **le venden a CX y operaciones, no a producto**, lo que tensiona la creencia de que paga la gerencia de producto. Y la clasificación con IA se está volviendo commodity: el mercado se está repreciando hacia quien integra el insight en el flujo de decisión, así que el valor defendible de Veta estaría en el comité de priorización, no en codificar.
+La promesa de Veta ("feedback cuantificado para priorizar el roadmap") **ya existe y se vende**, pero afuera y a equipos de producto SaaS: Enterpret y Unwrap prometen justamente conectar el feedback con impacto para decidir qué construir, a US$24k–64k al año. En Chile, los actores visibles de voz del cliente en salud **le venden a CX y operaciones, no a producto**, lo que tensiona la creencia de que paga la gerencia de producto. Y la clasificación con IA se está volviendo commodity: el mercado se está repreciando hacia quien integra el insight en el flujo de decisión, así que el valor defendible de Veta estaría en el punto de decisión de la priorización, no en codificar.
+
+> **Corrección 2026-09-23:** en Clínica Alemana no hay comité de priorización. Los ítems de voz del paciente entran al backlog sin prioridad ni criterio frente a las iniciativas nuevas. Donde este documento dice "comité", léase "el punto de decisión de la priorización", que hoy no existe formalmente. Los hallazgos de mercado no cambian.
 
 Todas las fuentes se consultaron el 2026-09-22.
 
@@ -67,7 +69,7 @@ Primero las que la agenda del brief asignó a esta investigación:
 | Creencia (de overview.md) | Veredicto | Evidencia |
 |---|---|---|
 | [opportunity: voz-paciente-sin-metricas] [viability] La gerencia de producto/digital tiene autoridad y presupuesto (3 de 5 prestadores) | contradice (parcial) | Afuera, producto sí compra (los clientes de Enterpret y Unwrap incluyen PM). En Chile, los actores de voz del cliente en salud le venden a CX y operaciones (ExperiencIA CX, Keirón), y el contact center compra speech analytics. Todo verificado. No prueba que producto no pague, pero sube la prioridad de la pregunta "¿dónde está el presupuesto?" en las entrevistas |
-| [opportunity: voz-paciente-sin-metricas] [value] La aprobación de ítems de experiencia es menos de la mitad que la de negocio, por falta de cuantificación | no dice nada | La investigación secundaria no llega al comité de un prestador. Como señal general: entre 30% y 40% de las áreas no actúa sobre los insights de CX (Medallia vía CMSWire, verificado), otro segmento |
+| [opportunity: voz-paciente-sin-metricas] [value] La aprobación de ítems de experiencia es menos de la mitad que la de negocio, por falta de cuantificación (reformulada el 2026-09-23: proporción ejecutada desde el backlog) | no dice nada | La investigación secundaria no llega al comité de un prestador. Como señal general: entre 30% y 40% de las áreas no actúa sobre los insights de CX (Medallia vía CMSWire, verificado), otro segmento |
 | [product] [value] Si los códigos llegaran con métricas, los PO lograrían priorizarlos | apoya (débil) | Hay productos pagados cuya promesa central es exactamente esta (Enterpret, Unwrap, verificado), pero para PM de software, no para PO de salud |
 | [product] [value] La consolidación manual es el cuello de botella | no dice nada | — |
 | [product] [feasibility] Un modelo puede clasificar las fuentes contra el diccionario común | apoya | Varias herramientas clasifican sin etiquetado manual (Enterpret) y en español en salud chilena (ExperiencIA CX), todo verificado. No prueba la calidad contra *su* diccionario |
@@ -81,7 +83,7 @@ Primero las que la agenda del brief asignó a esta investigación:
 
 **Solo entrevistas pueden explicarlo** (el universo es muy chico para una encuesta):
 - En cada prestador, **quién es dueño del presupuesto de voz del cliente**: producto, experiencia o contact center. Qué herramientas ya tienen (Qualtrics, Medallia, speech analytics, consultoras) y quién las compró.
-- **Por qué pierden los ítems de experiencia en el comité:** falta de cuantificación, política o capacidad. Es la creencia de valor, y ninguna fuente secundaria llega ahí.
+- **Por qué no se ejecutan los ítems de experiencia:** falta de cuantificación, falta de un criterio o instancia de priorización, o capacidad. Es la creencia de valor, y ninguna fuente secundaria llega ahí.
 - **Qué evidencia bastaría para ganarle a una solicitud del negocio.** Es la pregunta de la contraparte comercial que está fuera del set de personas.
 - **Si el PO de salud pagaría US$24k o más al año** o espera algo más barato. Es una disposición a pagar; se explora cualitativamente.
 
