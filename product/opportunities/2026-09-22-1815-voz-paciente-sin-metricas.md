@@ -16,7 +16,8 @@ Los ítems de mejora que nacen de la voz del paciente entran al backlog de produ
 - Francisca Lagos (secondary) — sufre su consecuencia: codifica a mano, junto con soporte de producto, la voz del paciente (mensual en Usabilla/CSAT, bisemanal en NPS y reclamos) y los ítems que produce quedan sin prioridad.
 - Soledad Irarrázaval (tertiary) — no usa el producto: aprueba la compra y la línea de presupuesto. Responde la creencia de viabilidad.
 - Andrés Bittencourt (negative) — no la sufre: sin equipo de producto no hay backlog donde competir.
-- Missing: soporte de producto (co-codifica con UX), experiencia del paciente/SAC (dueña de NPS y reclamos) y contact center (dueño del costo por contacto) no tienen persona propia; Francisca representa en parte a soporte, y el acceso a los datos de contact center y SAC se valida con conversaciones reales. La gerencia de TI, que co-prioriza el roadmap con la gerencia digital, tampoco tiene persona propia.
+
+**Sin persona propia:** soporte de producto (co-codifica con UX), experiencia del paciente/SAC (dueña de NPS y reclamos), contact center (dueño del costo por contacto) y gerencia de TI (co-prioriza el roadmap con la gerencia digital). Francisca representa en parte a soporte; el acceso a los datos de contact center y SAC se valida con conversaciones reales.
 
 ## Signals
 
