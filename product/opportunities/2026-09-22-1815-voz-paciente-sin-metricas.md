@@ -19,18 +19,18 @@ Los ítems de mejora que nacen de la voz del paciente entran al backlog de produ
 
 ## Signals
 
-| Signal | Provenance | Source |
-|---|---|---|
-| No existe comité ni instancia formal de priorización para la voz del paciente | real | Clínica Alemana — corrección de Marcelo, 2026-09-23 |
-| Hay una reunión bisemanal que sigue cómo se llenan los datos de voz del paciente, y a fin de mes se revisa si cambia la priorización definida el mes anterior en un Excel | real | Clínica Alemana — corrección de Marcelo, 2026-09-23 |
-| Los ítems priorizados entran al backlog de producto sin prioridad y sin un criterio de cómo compiten con una iniciativa nueva | real | Clínica Alemana — corrección de Marcelo, 2026-09-23 |
-| La codificación es mensual en Usabilla/CSAT y bisemanal en NPS y reclamos | real | Clínica Alemana — corrección de Marcelo, 2026-09-23 |
-| Existe un diccionario común de códigos construido a mano por soporte, contact center y SAC | real | Clínica Alemana — diccionario (documento interno) |
-| La voz del paciente viene de cinco fuentes con formatos distintos: contact center, NPS, CSAT, Usabilla, SAC en Salesforce | real | Clínica Alemana — fuentes del informe mensual |
-| La consolidación toma 6–8 días-persona al mes y la de Usabilla/CSAT llega 4–6 semanas después del reclamo | synthetic | `product/personas/francisca-lagos.md` |
-| La PO tarda una semana en armar un argumento cuantificado; dos trimestres sin ítems de experiencia en el sprint | synthetic | `product/personas/camila-ortuzar.md` |
-| El comprador ya compró herramientas de "insights" que terminaron como dashboards que nadie abre | synthetic | `product/personas/rodrigo-valenzuela.md` |
-| Casi un tercio de las llamadas se tipifica como "consulta general" | synthetic | `product/personas/veronica-sepulveda.md` |
+| Signal                                                                                                                                                                    | Provenance | Source                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------- |
+| No existe comité ni instancia formal de priorización para la voz del paciente                                                                                             | real       | Clínica Alemana — corrección de Marcelo, 2026-09-23 |
+| Hay una reunión bisemanal que sigue cómo se llenan los datos de voz del paciente, y a fin de mes se revisa si cambia la priorización definida el mes anterior en un Excel | real       | Clínica Alemana — corrección de Marcelo, 2026-09-23 |
+| Los ítems priorizados entran al backlog de producto sin prioridad y sin un criterio de cómo compiten con una iniciativa nueva                                             | real       | Clínica Alemana — corrección de Marcelo, 2026-09-23 |
+| La codificación es mensual en Usabilla/CSAT y bisemanal en NPS y reclamos                                                                                                 | real       | Clínica Alemana — corrección de Marcelo, 2026-09-23 |
+| Existe un diccionario común de códigos construido a mano por soporte, contact center y SAC                                                                                | real       | Clínica Alemana — diccionario (documento interno)   |
+| La voz del paciente viene de cinco fuentes con formatos distintos: contact center, NPS, CSAT, Usabilla, SAC en Salesforce                                                 | real       | Clínica Alemana — fuentes del informe mensual       |
+| La consolidación toma 6–8 días-persona al mes y la de Usabilla/CSAT llega 4–6 semanas después del reclamo                                                                 | synthetic  | `product/personas/francisca-lagos.md`               |
+| La PO tarda una semana en armar un argumento cuantificado; dos trimestres sin ítems de experiencia en el sprint                                                           | synthetic  | `product/personas/camila-ortuzar.md`                |
+| El comprador ya compró herramientas de "insights" que terminaron como dashboards que nadie abre                                                                           | synthetic  | `product/personas/rodrigo-valenzuela.md`            |
+| Casi un tercio de las llamadas se tipifica como "consulta general"                                                                                                        | synthetic  | `product/personas/veronica-sepulveda.md`            |
 
 ## Business outcome
 
