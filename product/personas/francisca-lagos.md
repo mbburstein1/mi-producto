@@ -20,7 +20,7 @@
 ## Frustrations
 
 - La codificación con soporte le toma entre 6 y 8 días-persona al mes entre ambos equipos, y lo de Usabilla/CSAT llega 4–6 semanas después de que el paciente reclamó. Esas semanas no hace research.
-- El diccionario común está organizado por motivo de contacto, no por paso del journey. Cada mes re-mapea a mano los códigos a las pantallas del producto para que le sirvan a diseño.
+- El diccionario común está organizado por motivo de contacto, no por paso del journey. Cada mes re-mapea a mano los códigos a las pantallas del producto para que le sirvan a diseño, y cuando necesita saber cuántos pacientes se quedaron en ese paso le pide el funnel al equipo de analítica, que usa otros nombres para las mismas pantallas.
 - Los comentarios de Usabilla y NPS son texto libre ambiguo: "no funciona" puede ser cinco problemas distintos. Ella y el analista de soporte codifican el mismo comentario distinto y pierden tiempo conciliando.
 - Desconfía de la clasificación automática: si pierde esos matices, el Excel se ve más ordenado pero dice menos. Aceptaría que una máquina codifique si ella puede revisar y corregir, y el sistema aprende de eso.
 - En la revisión de fin de mes su trabajo cualitativo se lee como "opinión". Sin volumen ni tendencia, sus hallazgos entran al backlog sin prioridad.

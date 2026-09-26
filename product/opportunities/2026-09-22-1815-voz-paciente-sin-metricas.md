@@ -1,7 +1,7 @@
 ---
 status: framed
 segment: Product Owners y gerencias de producto digital de prestadores de salud privados en Chile con productos digitales propios (app, portal, agendamiento, resultados), junto con los equipos de UX y soporte de producto que hoy codifican a mano la voz del paciente
-personas: camila-ortuzar, rodrigo-valenzuela, francisca-lagos, veronica-sepulveda, andres-bittencourt
+personas: rodrigo-valenzuela, camila-ortuzar, benjamin-araya, francisca-lagos, soledad-irarrazaval, andres-bittencourt
 ---
 
 # Opportunity: La voz del paciente entra al backlog sin prioridad ni forma de competir
@@ -10,12 +10,13 @@ Los ítems de mejora que nacen de la voz del paciente entran al backlog de produ
 
 ## Segment and personas
 
+- Rodrigo Valenzuela (primary, la más relevante) — la sufre y decide: cada fin de mes recibe la voz del paciente consolidada y la compara contra las iniciativas nuevas que él comprometió, sin un número de costo; decide qué entra al sprint y qué no.
 - Camila Ortúzar (primary) — la sufre: sus ítems de experiencia quedan en el backlog sin prioridad mientras las iniciativas nuevas llegan con proyección de ingreso.
-- Rodrigo Valenzuela (primary) — la sufre: no tiene una regla ni datos para justificar un sprint de experiencia frente a una iniciativa nueva que él comprometió. Responde la creencia de viabilidad.
+- Benjamín Araya (primary) — la sufre sin herramientas para enfrentarla: PO novato que deja de llevar ítems a la revisión cuando no puede responder cuánto cuestan.
 - Francisca Lagos (secondary) — sufre su consecuencia: codifica a mano, junto con soporte de producto, la voz del paciente (mensual en Usabilla/CSAT, bisemanal en NPS y reclamos) y los ítems que produce quedan sin prioridad.
-- Verónica Sepúlveda (tertiary) — no usa el producto: sufre las llamadas evitables y habilita o bloquea el acceso a la fuente más grande.
+- Soledad Irarrázaval (tertiary) — no usa el producto: aprueba la compra y la línea de presupuesto. Responde la creencia de viabilidad.
 - Andrés Bittencourt (negative) — no la sufre: sin equipo de producto no hay backlog donde competir.
-- Missing: soporte de producto (co-codifica con UX) y experiencia del paciente/SAC (dueña de NPS y reclamos) no tienen persona propia, para mantener el set en 2-1-1-1; Francisca y Verónica las representan en parte. La contraparte en la priorización son las gerencias digital y de TI, que priorizan features nuevos; no tienen persona propia y su postura la representa en parte Rodrigo, que es parte de la gerencia digital.
+- Missing: soporte de producto (co-codifica con UX), experiencia del paciente/SAC (dueña de NPS y reclamos) y contact center (dueño del costo por contacto) no tienen persona propia; Francisca representa en parte a soporte, y el acceso a los datos de contact center y SAC se valida con conversaciones reales. La gerencia de TI, que co-prioriza el roadmap con la gerencia digital, tampoco tiene persona propia.
 
 ## Signals
 
@@ -29,8 +30,8 @@ Los ítems de mejora que nacen de la voz del paciente entran al backlog de produ
 | La voz del paciente viene de cinco fuentes con formatos distintos: contact center, NPS, CSAT, Usabilla, SAC en Salesforce                                                 | real       | Clínica Alemana — fuentes del informe mensual       |
 | La consolidación toma 6–8 días-persona al mes y la de Usabilla/CSAT llega 4–6 semanas después del reclamo                                                                 | synthetic  | `product/personas/francisca-lagos.md`               |
 | La PO tarda una semana en armar un argumento cuantificado; dos trimestres sin ítems de experiencia en el sprint                                                           | synthetic  | `product/personas/camila-ortuzar.md`                |
-| El comprador ya compró herramientas de "insights" que terminaron como dashboards que nadie abre                                                                           | synthetic  | `product/personas/rodrigo-valenzuela.md`            |
-| Casi un tercio de las llamadas se tipifica como "consulta general"                                                                                                        | synthetic  | `product/personas/veronica-sepulveda.md`            |
+| El sponsor ya aprobó herramientas de "insights" que terminaron como dashboards que nadie abre                                                                             | synthetic  | `product/personas/soledad-irarrazaval.md`           |
+| Las compras de herramientas exigen un caso de ROI a 12 meses ante el comité de inversiones                                                                                | synthetic  | `product/personas/soledad-irarrazaval.md`           |
 
 ## Business outcome
 
@@ -39,7 +40,7 @@ Comercial: que gerencias de producto/digital de prestadores de salud paguen por 
 ## Constraints
 
 - Datos de salud sensibles: Ley 20.584 (derechos y deberes del paciente) y Ley 19.628 de protección de datos, reemplazada por la Ley 21.719, que entra en vigencia el 2026-12-01 y crea la Agencia de Protección de Datos Personales (`product/research/2026-09-22-voz-paciente-sin-metricas-mercado.md`).
-- Las fuentes reportan a gerencias distintas de producto; parte del contact center puede estar externalizado, con los datos en la plataforma del proveedor. (synthetic, `rodrigo-valenzuela.md`, `veronica-sepulveda.md`)
+- Las fuentes reportan a gerencias distintas de producto, y acceder a sus datos exige negociarlo entre gerencias. (synthetic, `rodrigo-valenzuela.md`, `soledad-irarrazaval.md`)
 - Toda iniciativa con IA pasa por revisión de legal y seguridad de la información. (synthetic, `rodrigo-valenzuela.md`)
 - La decisión sobre esta oportunidad se toma el 2026-10-30 (hito del curso).
 
@@ -65,7 +66,6 @@ Sin encuesta: el universo de prestadores con equipo de producto en Chile es chic
 Research secundario hecho:
 
 - [Mercado de voz del cliente en salud](../research/2026-09-22-voz-paciente-sin-metricas-mercado.md) (2026-09-22): quién compra, a qué precio y contra quién se compite.
-- [Impacto de negocio de las señales](../research/2026-09-23-impacto-negocio-senales.md) (2026-09-23): cómo se estima el impacto de negocio y con qué datos externos.
 
 ## Candidate ideas (not evaluated)
 
