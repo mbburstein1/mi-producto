@@ -12,7 +12,7 @@ opportunity: voz-paciente-sin-metricas
 
 La promesa de Veta ("feedback cuantificado para priorizar el roadmap") **ya existe y se vende**, pero afuera y a equipos de producto SaaS: Enterpret y Unwrap prometen justamente conectar el feedback con impacto para decidir qué construir, a US$24k–64k al año. En Chile, los actores visibles de voz del cliente en salud **le venden a CX y operaciones, no a producto**, lo que tensiona la creencia de que paga la gerencia de producto. Y la clasificación con IA se está volviendo commodity: el mercado se está repreciando hacia quien integra el insight en el flujo de decisión, así que el valor defendible de Veta estaría en el punto de decisión de la priorización, no en codificar.
 
-> **Corrección 2026-09-23:** en Clínica Alemana no hay comité de priorización. Los ítems de voz del paciente entran al backlog sin prioridad ni criterio frente a las iniciativas nuevas. Donde este documento dice "comité", léase "el punto de decisión de la priorización", que hoy no existe formalmente. Los hallazgos de mercado no cambian.
+> **Corrección 2026-09-23:** en el prestador de referencia no hay comité de priorización. Los ítems de voz del paciente entran al backlog sin prioridad ni criterio frente a las iniciativas nuevas. Donde este documento dice "comité", léase "el punto de decisión de la priorización", que hoy no existe formalmente. Los hallazgos de mercado no cambian.
 
 Todas las fuentes se consultaron el 2026-09-22.
 
@@ -31,12 +31,12 @@ Todas las fuentes se consultaron el 2026-09-22.
 
 ## Alternativas y no consumo
 
-- **El proceso manual actual:** exportaciones, Excel y un diccionario propio. Es la alternativa real en Clínica Alemana (señal `real` en el brief).
+- **El proceso manual actual:** exportaciones, Excel y un diccionario propio. Es la alternativa real en el prestador de referencia (señal `real` en el brief).
 - **Speech analytics del contact center:** en Chile hay proveedores activos. HaddaCloud declara más de 7 millones de minutos al mes para más de 40 clientes corporativos en Chile, Colombia y EE. UU. [verificado: [haddacloud.com](https://haddacloud.com/blog/auditoria-llamadas-speech-analytics/) — 2026-09-22]; también Siptel Chile [verificado: [siptelchile.cl](https://www.siptelchile.cl/servicios/speech-analytics) — 2026-09-22]. El contact center podría **ya tener** clasificación automática de llamadas: sería a la vez competidor y fuente de datos.
 - **Consultoras de CX e investigación** que clasifican con IA como servicio: ADA LAB [verificado: [ada-lab.cl](https://www.ada-lab.cl/en/) — 2026-09-22] y ExperiencIA CX.
 - **Plataformas operativas de salud** con encuestas de satisfacción, pero sin análisis de reclamos: Keirón (clientes UC Christus, RedSalud, Clínica Las Condes, Bupa) [verificado: [keironsalud.com](https://www.keironsalud.com/es-cl/) — 2026-09-22].
 - **Herramientas de gestión de producto** con extracción de insights por IA incluida: Productboard, con un plan Spark de US$15/maker/mes y créditos de IA [verificado: resumen de búsqueda sobre [featurebase.app](https://www.featurebase.app/blog/what-is-productboard), no confirmado en la fuente — 2026-09-22]. Es una alternativa barata si el PO solo necesita resumir feedback.
-- **Usabilla**, que ya es una de las fuentes de Clínica Alemana, es a su vez una herramienta de voz del cliente, hoy parte de SurveyMonkey [conocimiento del modelo — verificar].
+- **Usabilla**, que ya es una de las fuentes del prestador de referencia, es a su vez una herramienta de voz del cliente, hoy parte de SurveyMonkey [conocimiento del modelo — verificar].
 
 ## Precios y modelos de negocio
 
@@ -91,4 +91,4 @@ Primero las que la agenda del brief asignó a esta investigación:
 
 **Lo que sí se puede contar sin encuesta:** el universo de prestadores con equipo de producto en Chile (hoy es conocimiento del modelo) se puede listar a mano con LinkedIn y los sitios de cada red.
 
-**Lo que se puede verificar dentro de Clínica Alemana sin entrevistas:** si ya existe una suite de voz del cliente o speech analytics con licencia, y quién la paga.
+**Lo que se puede verificar dentro del prestador de referencia sin entrevistas:** si ya existe una suite de voz del cliente o speech analytics con licencia, y quién la paga.
