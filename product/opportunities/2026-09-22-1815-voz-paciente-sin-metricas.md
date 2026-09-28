@@ -68,6 +68,7 @@ La encuesta va antes de las entrevistas aunque el universo sea chico: sirve para
 Research secundario hecho:
 
 - [Mercado de voz del cliente en salud](../research/2026-09-22-voz-paciente-sin-metricas-mercado.md) (2026-09-22): quién compra, a qué precio y contra quién se compite.
+- [Cómo se estima el impacto de negocio de una señal](../research/2026-09-23-impacto-negocio-senales.md) (2026-09-23): tres métodos en uso (ingreso por cuenta, brecha de conversión, costo de contactos evitables), el dato externo que necesita cada uno y que ningún proveedor publica su precisión.
 
 ## Candidate ideas (not evaluated)
 
