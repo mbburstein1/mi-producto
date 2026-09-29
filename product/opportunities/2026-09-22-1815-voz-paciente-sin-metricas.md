@@ -3,7 +3,7 @@ status: framed
 segment: Product Owners y gerencias de producto digital de prestadores de salud privados en Chile con productos digitales propios (app, portal, agendamiento, resultados), junto con los equipos de UX y soporte de producto que hoy codifican a mano la voz del paciente
 personas: rodrigo-valenzuela, camila-ortuzar, benjamin-araya, francisca-lagos, soledad-irarrazaval, andres-bittencourt
 ---
-
+	
 # Opportunity: La voz del paciente entra al backlog sin prioridad ni forma de competir
 
 Los ítems de mejora que nacen de la voz del paciente entran al backlog de producto sin prioridad y sin un criterio que defina cómo compiten con las iniciativas nuevas —features y pedidos de stakeholders que impulsan las gerencias digital y de TI, dueñas del desarrollo de producto—, así que pierden por omisión. No hay comité ni instancia formal donde se comparen: hay una reunión bisemanal que sigue cómo se llenan los datos y una revisión a fin de mes de si cambia la priorización del mes anterior, hecha en Excel, que no se traduce en decisiones del backlog. Además llegan consolidados a mano, sin volumen ni tendencia y sin un argumento que muestre qué le cuesta al negocio el problema. Es el momento porque el proceso ya existe y está estandarizado (diccionario común, cinco fuentes identificadas, seguimiento bisemanal), pero sigue sin cambiar decisiones.
